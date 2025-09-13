@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
